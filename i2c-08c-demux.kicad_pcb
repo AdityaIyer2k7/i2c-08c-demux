@@ -4159,36 +4159,6 @@
 			(uuid "7aa293bb-c156-48ee-b3a4-e5d7a6add439")
 		)
 		(fp_line
-			(start -1.4 1.2)
-			(end -1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ded80dda-3729-49f7-96d9-551a9291590d")
-		)
-		(fp_line
-			(start -1.1 1.5)
-			(end -1.4 1.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cddef526-2263-47a4-9698-edf2562b41a9")
-		)
-		(fp_line
-			(start -1.7 1.5)
-			(end -1.1 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d81abc8b-90fc-446e-be3e-4e980c338f47")
-		)
-		(fp_line
 			(start -2.98 -1.27)
 			(end 3 -1.27)
 			(stroke
@@ -4414,36 +4384,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "dd6e092b-3deb-4be9-9cf9-8fd6dfebc5fb")
-		)
-		(fp_line
-			(start -1.4 1.2)
-			(end -1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "45d9c19f-bfe8-475a-b6c3-8fbd10c6d9f9")
-		)
-		(fp_line
-			(start -1.1 1.5)
-			(end -1.4 1.2)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e1900bdc-2346-437a-84e5-0b831fa4e085")
-		)
-		(fp_line
-			(start -1.7 1.5)
-			(end -1.1 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "88050a9c-95f1-45ed-8c6e-569ab3174cbb")
 		)
 		(fp_line
 			(start -2.98 -1.27)
@@ -6643,6 +6583,76 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_line
+		(start 120.523 93.472)
+		(end 120.015 93.472)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "30152257-7a82-4c6a-8c52-08ed1a5cf131")
+	)
+	(gr_line
+		(start 120.269 93.726)
+		(end 120.523 93.472)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6655a418-be37-4f77-87f0-915264151135")
+	)
+	(gr_line
+		(start 120.015 93.472)
+		(end 120.142 93.599)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "702ba9d6-9971-4764-89da-492298b914ea")
+	)
+	(gr_line
+		(start 120.015 93.472)
+		(end 120.269 93.726)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "739eef3f-49f3-4437-b90b-2b793dd96ad0")
+	)
+	(gr_line
+		(start 113.411 93.726)
+		(end 113.157 93.472)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "889f4867-57e8-460c-a452-b38657f35a1f")
+	)
+	(gr_line
+		(start 113.157 93.472)
+		(end 113.665 93.472)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "af242bd0-5110-4594-8179-97c0d36636c2")
+	)
+	(gr_line
+		(start 113.665 93.472)
+		(end 113.411 93.726)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e1bd8905-a3fc-4d93-8be0-f009f17f1a79")
+	)
 	(gr_rect
 		(start 101.6 87.63)
 		(end 132.08 101.6)
@@ -6739,6 +6749,18 @@
 				(bold yes)
 			)
 			(justify bottom)
+		)
+	)
+	(gr_text "ADITYA IYER"
+		(at 128.905 88.773 0)
+		(layer "B.SilkS")
+		(uuid "17b48e5b-a1d1-4819-a173-cadd67111d4e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left mirror)
 		)
 	)
 	(gr_text "VCC"
