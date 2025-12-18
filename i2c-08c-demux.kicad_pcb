@@ -6556,7 +6556,7 @@
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "8a22122b-a93c-4550-b276-362e910a96f1")
+			(uuid "b0c4a162-76ee-4a39-951e-6deebdd9187e")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -6569,7 +6569,7 @@
 			(at 0.75 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "26f289c3-9da9-40e1-a059-be15c9907b9a")
+			(uuid "a31a3299-af93-4f37-ac4b-df418c46d2cc")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -6582,7 +6582,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "57cb36ba-8f65-41fc-9c8f-fe825bbf4752")
+			(uuid "daff1630-fa7b-42ad-bb24-0b2fd910d25b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,7 +6595,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b0c31e80-163a-44a3-8666-3233e99f8c9f")
+			(uuid "50281907-996c-41b9-944e-0084a7ecdc67")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7625,7 +7625,7 @@
 			)
 		)
 	)
-	(gr_text "adityaiyer2007@gmail.com\nADITYA IYER"
+	(gr_text "adityaiyer2007@gmail.com\nSTANFORD"
 		(at 128.905 87.884 0)
 		(layer "B.SilkS")
 		(uuid "17b48e5b-a1d1-4819-a173-cadd67111d4e")
